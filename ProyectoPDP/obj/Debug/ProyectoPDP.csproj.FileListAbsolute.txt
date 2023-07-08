@@ -1,0 +1,11 @@
+C:\Users\josed\OneDrive\Escritorio\Proyecto Paradigamas\ProyectoPDP\bin\Debug\ProyectoPDP.exe.config
+C:\Users\josed\OneDrive\Escritorio\Proyecto Paradigamas\ProyectoPDP\bin\Debug\ProyectoPDP.exe
+C:\Users\josed\OneDrive\Escritorio\Proyecto Paradigamas\ProyectoPDP\bin\Debug\ProyectoPDP.pdb
+C:\Users\josed\OneDrive\Escritorio\Proyecto Paradigamas\ProyectoPDP\obj\Debug\ProyectoPDP.csproj.AssemblyReference.cache
+C:\Users\josed\OneDrive\Escritorio\Proyecto Paradigamas\ProyectoPDP\obj\Debug\ProyectoPDP.csproj.SuggestedBindingRedirects.cache
+C:\Users\josed\OneDrive\Escritorio\Proyecto Paradigamas\ProyectoPDP\obj\Debug\ProyectoPDP.Inicio.resources
+C:\Users\josed\OneDrive\Escritorio\Proyecto Paradigamas\ProyectoPDP\obj\Debug\ProyectoPDP.Properties.Resources.resources
+C:\Users\josed\OneDrive\Escritorio\Proyecto Paradigamas\ProyectoPDP\obj\Debug\ProyectoPDP.csproj.GenerateResource.cache
+C:\Users\josed\OneDrive\Escritorio\Proyecto Paradigamas\ProyectoPDP\obj\Debug\ProyectoPDP.csproj.CoreCompileInputs.cache
+C:\Users\josed\OneDrive\Escritorio\Proyecto Paradigamas\ProyectoPDP\obj\Debug\ProyectoPDP.exe
+C:\Users\josed\OneDrive\Escritorio\Proyecto Paradigamas\ProyectoPDP\obj\Debug\ProyectoPDP.pdb
